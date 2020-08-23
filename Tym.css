@@ -56,6 +56,16 @@ body {
 	width: 250px;
 	animation: animate 1s infinite;
 }
+#yes {
+	height: 50px;
+	width: 100px;
+  }
+.btn-danger{
+	font-size: 15px;
+	color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
 
 @keyframes animate {
 	0% {
